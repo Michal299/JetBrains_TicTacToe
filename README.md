@@ -3,6 +3,7 @@
 # About
 
 It is a project which I made during JetBrains Academy Java Developer Bootcamp. It have three levels of difficulty and simple command line interface. 
+Everything is made using Java.
 
 # Instruction
 
@@ -28,11 +29,10 @@ e.g. Enter the coordinates: 2 3
 
 Board is divided for 9 fields, each can be described using two parameters: x and y
 
---------- \
 |7  8  9| \
 |4  5  6| \
 |1  2  3| 
----------
+
 
 - f -> (x, y)
 - 1 -> (1, 1)
