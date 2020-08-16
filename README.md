@@ -1,15 +1,10 @@
 # JetBrains_TicTacToe
 
-|=====|
-|About|
-|=====|
+# About
 
 It is a project which I made during JetBrains Academy Java Developer Bootcamp. It have three levels of difficulty and simple command line interface. 
 
-|===========|
-|Instruction|
-|===========|
-
+# Instruction
 
 At the begining you have two options: start a game or exit. To start you need to write start and choose one of four available modes for the first and fr the second player. You can choose from:
 
@@ -29,15 +24,18 @@ e.g. Enter the coordinates: 2 3
 
 !!! Program have simple mechanism against incorrect data entry !!!
 
-|=====================================|
-|This is the presentation of the board|
-|=====================================|
-Board is divided for 9 fields, each can be described using two parameters: x and y;
+# This is the presentation of the board
+
+Board is divided for 9 fields, each can be described using two parameters: x and y
+
 ---------
+
 |7  8  9|
 |4  5  6|
 |1  2  3|
+
 ---------
+
 - f -> (x, y)
 - 1 -> (1, 1)
 - 2 -> (2, 1)
