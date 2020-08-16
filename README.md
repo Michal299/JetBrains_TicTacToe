@@ -28,12 +28,10 @@ e.g. Enter the coordinates: 2 3
 
 Board is divided for 9 fields, each can be described using two parameters: x and y
 
----------
-
-|7  8  9|
-|4  5  6|
-|1  2  3|
-
+--------- \
+|7  8  9| \
+|4  5  6| \
+|1  2  3| 
 ---------
 
 - f -> (x, y)
